@@ -1,19 +1,19 @@
 {
-    "version": "0.5.2",
+    "version": "0.5.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/deploifai/cli-go/releases/download/v0.5.2/deploifai_Windows_i386.zip",
+            "url": "https://github.com/deploifai/cli-go/releases/download/v0.5.3/deploifai_Windows_i386.zip",
             "bin": [
                 "deploifai.exe"
             ],
-            "hash": "7b9808529feb0030b9097e86a967caccf573fe540d6bc4a35b102395f83107a0"
+            "hash": "c40979c4199d3de5278e7ac6d8a5b8a4babe353dbec55d2574bd9efd0d84dec9"
         },
         "64bit": {
-            "url": "https://github.com/deploifai/cli-go/releases/download/v0.5.2/deploifai_Windows_x86_64.zip",
+            "url": "https://github.com/deploifai/cli-go/releases/download/v0.5.3/deploifai_Windows_x86_64.zip",
             "bin": [
                 "deploifai.exe"
             ],
-            "hash": "9ad8aa074096c3b773b01bf3e3c861d97ef1679a5f5b5a903d3ae4d941300577"
+            "hash": "0de79fd9146c606ac5cc8722e908a7b98d9cc01b9781fc7fe94eb63e2d881e88"
         }
     },
     "homepage": "https://deploif.ai",
